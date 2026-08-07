@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**JosafatL/JosafatL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hola, soy Josafat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Estudiante de Ingeniería de Software | Frontend Developer
+
+Actualmente estoy aprendiendo desarrollo web y construyendo proyectos
+para mejorar mis habilidades como desarrollador.
+
+Aprendiendo:
+
+Python, JavaScript, CSS, Git
+
+---
+
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
