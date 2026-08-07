@@ -4,12 +4,18 @@
 
 ### 💻 Estudiante de Ingeniería de Software | Frontend Developer
 
-Actualmente estoy aprendiendo desarrollo web y construyendo proyectos
-para mejorar mis habilidades como desarrollador.
+Actualmente estoy estudiando Ingeniería de Software y enfocándome
+en el desarrollo Frontend.
 
-Aprendiendo:
+Me gusta aprender creando proyectos y actualmente estoy fortaleciendo
+mis conocimientos en JavaScript, HTML, CSS, Git y Python.
 
-Python, JavaScript, CSS, Git
+### 📚 Actualmente aprendiendo
+
+- 🐍 Python
+- 🟨 JavaScript
+- 🎨 CSS
+- 🔧 Git
 
 ---
 
