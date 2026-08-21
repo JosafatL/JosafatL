@@ -29,10 +29,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosafatL&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub de JosafatL" height="165"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosafatL&hide_border=true" alt="Racha de contribuciones de JosafatL" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosafatL&layout=compact&hide_border=true" alt="Lenguajes más usados por JosafatL" />
 </p>
