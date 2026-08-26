@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hola, soy Josafat</h1>
 
-<h3 align="center">Estudiante de Ingeniería de Software | Frontend Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Frontend+Developer;Aprendiendo+Python+%F0%9F%90%8D;Construyendo+proyectos+d%C3%ADa+a+d%C3%ADa+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
   Actualmente estoy estudiando Ingeniería de Software y enfocándome en el desarrollo Frontend.<br/>
@@ -31,4 +33,12 @@
 <p align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosafatL&hide_border=true" alt="Racha de contribuciones de JosafatL" height="165"/>
+</p>
+
+---
+
+### 🐍 Snake de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JosafatL/JosafatL/output/github-contribution-grid-snake.svg" alt="Animación snake comiendo el grid de contribuciones" />
 </p>
