@@ -32,7 +32,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosafatL&hide_border=true" alt="Racha de contribuciones de JosafatL" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=JosafatL&hide_border=true" alt="Racha de contribuciones de JosafatL" height="165"/>
 </p>
 
 ---
