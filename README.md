@@ -40,5 +40,5 @@
 ### 🐍 Snake de contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JosafatL/JosafatL/output/github-contribution-grid-snake.svg" alt="Animación snake comiendo el grid de contribuciones" />
+  <img src="https://raw.githubusercontent.com/JosafatL/JosafatL/output/github-contribution-grid-snake-dark.svg" alt="Animación snake comiendo el grid de contribuciones" />
 </p>
