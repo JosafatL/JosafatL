@@ -28,11 +28,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### ✨ Datos rápidos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosafatL&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub de JosafatL" height="165"/>
-</p>
+- 🌱 Explorando proyectos nuevos de frontend cada semana
+- 📚 Actualmente en un curso de Python
+- 🎯 Meta 2026: construir mi primer proyecto full-stack
+- 💬 Abierto a colaborar y aprender en equipo
 
 ---
 
