@@ -17,6 +17,7 @@
 - 🟨 JavaScript
 - 🎨 CSS
 - 🔧 Git & GitHub
+- 🖌️ Figma
 
 ---
 
